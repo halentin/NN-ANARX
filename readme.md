@@ -6,7 +6,7 @@ This repository contains a PyTorch-implementation of NN-ANARX. NN-ANARX is a cla
 * Closed-Loop-Prediction and Training (based on a variant of backpropagation-trough-time)
 * Conversion of NN-ANARX-Models to state-space-representation
 * Computation of optimal control input for SISO-NN-SANARX-models (according to the algorithm described here)
-* All models (even the state-space-representation) can be exported to the ONNX-Format for sharing and inference 
+* Export of all models (even the state-space-representation) as ONNX 
 
 
 ## Origin
